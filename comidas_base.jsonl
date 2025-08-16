@@ -1,0 +1,233 @@
+[
+  {
+    "name": "Pan Integral",
+    "brand": "Oroweat",
+    "serving": "65g (2 rebanadas)",
+    "serving_size_g": 65.0,
+    "calories": 192.0,
+    "protein": 6.5,
+    "carbs": 36.0,
+    "fat": 2.4,
+    "fiber": 3.9
+  },
+  {
+    "name": "Jamón de Pavo Ahumado",
+    "brand": "Corona",
+    "serving": "50g",
+    "serving_size_g": 50.0,
+    "calories": 75.0,
+    "protein": 8.0,
+    "carbs": 0.5,
+    "fat": 2.5,
+    "fiber": 0.0
+  },
+  {
+    "name": "chocolate_95_cena",
+    "brand": "Lindt",
+    "serving": "10g (porción de cena)",
+    "serving_size_g": 10.0,
+    "calories": 59.7,
+    "protein": 1.2,
+    "carbs": 0.9,
+    "fat": 5.7,
+    "fiber": 1.7
+  },
+  {
+    "name": "leche_deslactosada_alpura",
+    "brand": "Alpura",
+    "serving": "250ml",
+    "serving_size_g": 250.0,
+    "calories": 120.0,
+    "protein": 7.8,
+    "carbs": 12.0,
+    "fat": 4.5,
+    "fiber": 0.0
+  },
+  {
+    "name": "mantequilla_cacahuate_mister",
+    "brand": "Mister",
+    "serving": "30g",
+    "serving_size_g": 30.0,
+    "calories": 190.5,
+    "protein": 8.1,
+    "carbs": 2.4,
+    "fat": 16.5,
+    "fiber": 2.1
+  },
+  {
+    "name": "salsa_soya_lee_kum_kee",
+    "brand": "Lee Kum Kee",
+    "serving": "100ml",
+    "serving_size_g": 100.0,
+    "calories": 60.0,
+    "protein": 4.0,
+    "carbs": 11.0,
+    "fat": 0.0,
+    "fiber": 0.0
+  },
+  {
+    "name": "vinagre_arroz_dulce_estilo_chino",
+    "brand": "No visible",
+    "serving": "100g",
+    "serving_size_g": 100.0,
+    "calories": 54.0,
+    "protein": 5.9,
+    "carbs": 13.4,
+    "fat": 1.2,
+    "fiber": 1.1
+  },
+  {
+    "name": "aderezo_mostaza_dulce_importado",
+    "brand": "No visible",
+    "serving": "100g",
+    "serving_size_g": 100.0,
+    "calories": 387.6,
+    "protein": 0.9,
+    "carbs": 22.3,
+    "fat": 32.2,
+    "fiber": 0.0
+  },
+  {
+    "name": "aderezo_chipotle_mccormick",
+    "brand": "McCormick",
+    "serving": "15g",
+    "serving_size_g": 15.0,
+    "calories": 56.0,
+    "protein": 0.2,
+    "carbs": 1.0,
+    "fat": 5.0,
+    "fiber": 0.1
+  },
+  {
+    "name": "Ramen Buldak Doble Picante",
+    "brand": "Samyang",
+    "serving": "140g (1 paquete preparado)",
+    "serving_size_g": 140.0,
+    "calories": 560.0,
+    "protein": 43.4,
+    "carbs": 91.0,
+    "fat": 4.3,
+    "fiber": 0.0
+  },
+  {
+    "name": "Atún Tuny Gourmet Cubitos Aleta Amarilla",
+    "brand": "Tuny",
+    "serving": "250g (1 envase)",
+    "serving_size_g": 250.0,
+    "calories": 210.0,
+    "protein": 21.0,
+    "carbs": 0.0,
+    "fat": 0.0,
+    "fiber": 0.0
+  },
+  {
+    "name": "Atún en Agua",
+    "brand": "Tuny",
+    "serving": "100g (porción drenada)",
+    "serving_size_g": 100.0,
+    "calories": 93.0,
+    "protein": 21.0,
+    "carbs": 0.0,
+    "fat": 1.0,
+    "fiber": 0.0
+  },
+  {
+    "name": "Pesto Rosso",
+    "brand": "Filippo Berio",
+    "serving": "100g",
+    "serving_size_g": 100.0,
+    "calories": 388.8,
+    "protein": 2.5,
+    "carbs": 4.7,
+    "fat": 40.0,
+    "fiber": 0.0
+  },
+  {
+    "name": "Pasta Tortiglioni Sémola de Trigo Duro",
+    "brand": "Barilla",
+    "serving": "100g",
+    "serving_size_g": 100.0,
+    "calories": 170.9,
+    "protein": 6.5,
+    "carbs": 35.7,
+    "fat": 0.5,
+    "fiber": 2.1
+  },
+  {
+    "name": "Salsa Pesto Verde",
+    "brand": "Cirio",
+    "serving": "100g",
+    "serving_size_g": 100.0,
+    "calories": 409.0,
+    "protein": 4.0,
+    "carbs": 2.0,
+    "fat": 41.0,
+    "fiber": 1.0
+  },
+  {
+    "name": "Salsa Tomate Italiana",
+    "brand": "Prego",
+    "serving": "100g",
+    "serving_size_g": 100.0,
+    "calories": 45.8,
+    "protein": 1.7,
+    "carbs": 9.3,
+    "fat": 0.2,
+    "fiber": 1.9
+  },
+  {
+    "name": "Arroz Frito Estilo Yakitori",
+    "brand": "Ajinomoto",
+    "serving": "255g (1 bolsa individual)",
+    "serving_size_g": 255.0,
+    "calories": 419.2,
+    "protein": 20.4,
+    "carbs": 66.3,
+    "fat": 7.7,
+    "fiber": 2.6
+  },
+  {
+    "name": "Arroz Integral Casero Condimentado",
+    "brand": "Casero",
+    "serving": "100g",
+    "serving_size_g": 100.0,
+    "calories": 180.0,
+    "protein": 3.8,
+    "carbs": 33.1,
+    "fat": 2.9,
+    "fiber": 1.6
+  },
+  {
+    "name": "Aceite de Ajonjolí",
+    "brand": "Kaporo",
+    "serving": "100g",
+    "serving_size_g": 100.0,
+    "calories": 226.6,
+    "protein": 2.0,
+    "carbs": 0.0,
+    "fat": 16.2,
+    "fiber": 0.0
+  },
+  {
+    "name": "Yogurt Griego Proteico Deslactosado",
+    "brand": "Skyr",
+    "serving": "100g",
+    "serving_size_g": 100.0,
+    "calories": 60.0,
+    "protein": 10.0,
+    "carbs": 5.0,
+    "fat": 0.0,
+    "fiber": 0.0
+  },
+  {
+    "name": "Gold Standard Whey Proteína Chocolate",
+    "brand": "Optimum Nutrition",
+    "serving": "30.4g (1 scoop)",
+    "serving_size_g": 30.4,
+    "calories": 120.0,
+    "protein": 24.0,
+    "carbs": 3.0,
+    "fat": 1.5,
+    "fiber": 0.0
+  }
+]
