@@ -1,0 +1,120 @@
+{
+ "name": "arroz_blanco_casero_condimentado",
+ "brand": "Casero",
+ "serving": "100g",
+ "serving_size_g": 100.0,
+ "calories": 150.0,
+ "protein": 3.6,
+ "carbs": 32.5,
+ "fat": 0.7,
+ "fiber": 0.4
+}
+
+{
+ "name": "arroz_blanco_seco",
+ "serving": "35g",
+ "serving_size_g": 35.0,
+ "calories": 126.0,
+ "protein": 2.7,
+ "carbs": 28.2,
+ "fat": 0.3,
+ "fiber": 0.4
+}
+
+{
+  "name": "atun_cubitos_aleta_amarilla_premium",
+  "brand": "Dolores Premium",
+  "serving": "100g",
+  "serving_size_g": 100.0,
+  "calories": 104.8,
+  "protein": 23.0,
+  "carbs": 2.2,
+  "fat": 0.5,
+  "fiber": 0.0
+}
+
+{
+  "name": "salsa_teriyaki",
+  "brand": "Kaporo Oriental Food",
+  "serving": "100g",
+  "serving_size_g": 100.0,
+  "calories": 151.0,
+  "protein": 4.7,
+  "carbs": 32.6,
+  "fat": 0.2,
+  "fiber": 0.9
+}
+
+{
+  "name": "atun_marinado_asiatico_preparado",
+  "serving": "240g (1/2 de preparación)",
+  "serving_size_g": 240.0,
+  "calories": 240.0,
+  "protein": 47.0,
+  "carbs": 8.2,
+  "fat": 1.8,
+  "fiber": 0.0,
+  "preparation_notes": "Preparación completa: 400g atún Dolores Premium + 10g aceite ajonjolí + 25g salsa soya + 15g salsa teriyaki. Rinde 2 porciones de 240g cada una",
+  "ingredients_per_serving": "200g atún + 5g aceite ajonjolí + 12.5g salsa soya + 7.5g salsa teriyaki"
+}
+
+{
+  "name": "nito_pan_dulce",
+  "brand": "Bimbo",
+  "serving": "62.1g (1 unidad)",
+  "serving_size_g": 62.1,
+  "calories": 239.0,
+  "protein": 3.1,
+  "carbs": 35.4,
+  "fat": 9.4,
+  "fiber": 1.1
+}
+
+{
+ "name": "galletas_marias",
+ "serving": "100g (27 galletas aprox)",
+ "serving_size_g": 100.0,
+ "calories": 409.0,
+ "protein": 6.7,
+ "carbs": 79.1,
+ "fat": 7.3,
+ "fiber": 2.2
+}
+
+{
+ "name": "galletas_ritz",
+ "brand": "Ritz",
+ "serving": "100g (30 galletas aprox)",
+ "serving_size_g": 100.0,
+ "calories": 473.3,
+ "protein": 6.2,
+ "carbs": 66.0,
+ "fat": 20.5,
+ "fiber": 1.3
+}
+
+{
+ "name": "mermelada_fresa",
+ "brand": "Smucker's",
+ "serving": "100g",
+ "serving_size_g": 100.0,
+ "calories": 262.0,
+ "protein": 0.4,
+ "carbs": 65.0,
+ "fat": 0.3,
+ "fiber": 1.0
+}
+
+{
+ "name": "nieve_helado",
+ "brand": "Haagen Dazs",
+ "serving": "137g (1 porción)",
+ "serving_size_g": 137.0,
+ "calories": 340.0,
+ "protein": 6.0,
+ "carbs": 27.0,
+ "fat": 23.0,
+ "fiber": 0.0
+}
+
+
