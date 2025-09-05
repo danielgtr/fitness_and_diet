@@ -117,4 +117,14 @@
  "fiber": 0.0
 }
 
-
+{
+  "name": "pan_blanco_rebanada_gruesa",
+  "brand": "Nature's Own",
+  "serving": "42g (1 slice)",
+  "serving_size_g": 42.0,
+  "calories": 110.0,
+  "protein": 4.0,
+  "carbs": 22.0,
+  "fat": 1.5,
+  "fiber": 1.0
+}

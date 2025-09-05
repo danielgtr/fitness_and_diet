@@ -1,0 +1,245 @@
+# PLAN NUTRICIONAL SEMANAS -3 y -2: OPTIMIZACIÓN PRE-MARATÓN
+
+## FILOSOFÍA Y OBJETIVOS
+
+### **Objetivo Principal**
+**RENDIMIENTO MÁXIMO** en maratón del 26 de enero
+- Balance calórico NEUTRO siempre (0 déficit)
+- Front-loading calórico (90% antes de cena)
+- Digestión optimizada y probada
+- Recuperación prioritaria sobre composición corporal
+
+### **Estrategia de Periodización**
+- **Semanas -3 y -2**: MISMO enfoque nutricional (este plan)
+- **Semana -1**: Carb loading tradicional (75-80% carbos)
+- **Race week**: Protocolo específico de competencia
+
+### **Principios Rectores**
+✅ **Consistencia > Perfección** - Sistema probado sin experimentos
+✅ **Recuperación > Déficit** - Energía disponible siempre
+✅ **Carbos simples dominantes** - Digestión rápida, síntesis glucógeno
+✅ **Hidratación proactiva** - Liquid IV obligatorio
+
+---
+
+## ESTRUCTURA NUTRICIONAL ESTÁNDAR
+
+### **DESAYUNO ROBUSTO (785 kcal)**
+**Front-loading para energía sostenida todo el día**
+
+#### Componentes Fijos
+- **2 huevos cocidos** (120g) - 186 kcal
+- **Pan integral** (32.5g) + **Pan blanco** (42g) - 206 kcal
+- **Jamón pavo ahumado** (55g) - 83 kcal
+- **Verduras sandwich** (jitomate 30g + lechuga 15g) - 8 kcal
+- **Aderezos** (15g) - 25 kcal
+- **Mermelada** (40g) - 103 kcal
+- **Galletas marías** (5 unidades) - 65 kcal
+- **Plátano** (80g) - 71 kcal
+- **Liquid IV** (500ml) - 52 kcal
+
+#### Macros
+**785 kcal | P: 34.6g (18%) | C: 115.1g (59%) | G: 21.5g (25%)**
+
+---
+
+### **COMIDA COMPLETA (1,121-1,248 kcal)**
+**Reposición de glucógeno + proteína para reparación**
+
+#### Base Carbohidratos
+- **Arroz blanco casero** (300g) - 450 kcal
+- **Papa cocida** (350g) - 305 kcal
+- **Verduras mínimas**: Zanahoria (120g) + Brócoli (90g) - 74 kcal
+- **Aceite canola** (5g) - 44 kcal
+
+#### Proteína Variable (150g cocida)
+- **Pollo**: +248 kcal → **Total: 1,121 kcal**
+- **Res magra**: +375 kcal → **Total: 1,248 kcal**
+- **Salmón**: +309 kcal → **Total: 1,182 kcal**
+
+#### Macros (ejemplo con pollo)
+**1,121 kcal | P: 67.2g (24%) | C: 183.6g (66%) | G: 13.5g (11%)**
+
+---
+
+### **SNACKS ESTRATÉGICOS (FLEXIBLES)**
+
+#### Pre-Entreno (30-60 min antes)
+- **Carbos rápidos**: 2-3 galletas marías + 10g mermelada (45 kcal)
+- **Alternativa**: 1/2 plátano (50 kcal)
+
+#### Post-Entreno (OBLIGATORIO <30 min)
+- **Reposición inmediata**: 4 galletas + 20g mermelada + 1/2 plátano (140 kcal)
+- **Alternativa**: 6 galletas Ritz + 15g mermelada (170 kcal)
+
+#### Snack Tarde (opcional)
+- **Si quedan calorías**: Galletas + mermelada según disponibilidad
+
+---
+
+### **CENA ADAPTATIVA (Variable según gasto)**
+
+#### Sistema de 3 Niveles
+**Base**: Licuado (347 kcal) + Suplementos (37 kcal) = 384 kcal fija
+
+#### Módulo Fraccionable: "Galletas Carbo" (250 kcal)
+- Galletas marías (5 unidades): 65 kcal
+- Mermelada (30g): 77 kcal
+- Plátano (120g): 107 kcal
+
+#### Algoritmo Automático
+```
+Nivel 1 (0-347 kcal disponibles):
+Solo galletas fraccionadas + suplementos
+
+Nivel 2 (348-597 kcal disponibles):
+Licuado completo + galletas fraccionadas + suplementos
+
+Nivel 3 (598+ kcal disponibles):
+Licuado + galletas completas + carbos extras + suplementos
+```
+
+---
+
+## HIDRATACIÓN Y TIMING
+
+### **Protocolo Diario**
+- **Despertar**: 250ml agua
+- **Desayuno**: Liquid IV obligatorio (500ml)
+- **Pre-entreno**: 300ml agua (1h antes)
+- **Durante >10km**: Liquid IV adicional
+- **Post-entreno**: 150% peso perdido
+- **Día completo**: 2.5-3L agua total
+
+### **Timing Crítico**
+- **Desayuno**: 1.5-2h antes de entreno matutino
+- **Post-entreno**: <30 min SIEMPRE (no negociable)
+- **Comida**: 60-90 min post-entreno
+- **Cena**: 2-3h antes de dormir
+
+---
+
+## EJEMPLOS REPRESENTATIVOS
+
+### **DÍA PEAK VOLUMEN (30km) - 3,779 kcal**
+```
+Desayuno: 785 kcal
+Pre-entreno: 45 kcal
+Comida (res): 1,248 kcal
+Post-entreno: 140 kcal
+Subtotal: 2,218 kcal (59% objetivo)
+Cena disponible: 1,561 kcal
+
+Distribución final: P: 115g (12%) | C: 620g (66%) | G: 92g (22%)
+```
+
+### **DÍA MODERADO (15km) - 2,864 kcal**
+```
+Desayuno: 785 kcal
+Pre-entreno: 45 kcal
+Comida (pollo): 1,121 kcal
+Post-entreno: 140 kcal
+Subtotal: 2,091 kcal (73% objetivo)
+Cena disponible: 773 kcal
+
+Distribución final: P: 110g (15%) | C: 445g (62%) | G: 72g (23%)
+```
+
+### **DÍA FÁCIL (8km) - 2,437 kcal**
+```
+Desayuno: 785 kcal
+Comida (salmón): 1,182 kcal
+Snack: 70 kcal
+Subtotal: 2,037 kcal (84% objetivo)
+Cena disponible: 400 kcal
+
+Distribución final: P: 95g (16%) | C: 365g (60%) | G: 65g (24%)
+```
+
+---
+
+## MICRONUTRIENTES Y SUPLEMENTACIÓN
+
+### **Suplementos Nocturnos (Obligatorios)**
+- **Omega 3** (2 cápsulas): 1,914mg total
+- **Vitamina D3**: 10μg
+- **Magnesio**: 400mg
+
+### **Cobertura Nutricional Natural**
+- **Vitaminas B**: Huevos, jamón, arroz fortificado
+- **Antioxidantes**: Verduras coloridas (zanahoria, brócoli)
+- **Potasio**: Papa (crítico para función muscular)
+- **Sodio**: Liquid IV + aderezos (reposición electrolitos)
+
+---
+
+## TRANSICIÓN HACIA CARB LOADING
+
+### **Semanas -3 y -2 (Este Plan)**
+- **65% carbohidratos** - Balance óptimo para recuperación
+- **Digestión probada** - Cero experimentos
+- **Sistema rodado** - Confianza total
+
+### **Cambios Automáticos en Semana -2**
+- **Menor volumen** → Menos gasto calórico
+- **Misma estructura** → Cenas automáticamente más pequeñas
+- **Cero riesgo digestivo** → Preparación perfecta para race week
+
+### **Semana -1: Carb Loading Real**
+- **75-80% carbohidratos** (modificación específica)
+- **Eliminación completa de fibra**
+- **Protocolo de competencia**
+
+---
+
+## INDICADORES DE ÉXITO
+
+### **Señales Positivas**
+✅ **Peso estable** (±0.5kg fluctuación normal)
+✅ **Energía sostenida** en entrenamientos quality
+✅ **Recuperación <24h** entre sesiones intensas
+✅ **Digestión perfecta** sin molestias GI
+✅ **Sueño reparador** (7-8h calidad)
+
+### **Red Flags - Ajustar Si:**
+⚠️ **Pérdida peso >0.5kg** en 3 días
+⚠️ **Fatiga que no mejora** con descanso
+⚠️ **Problemas digestivos** recurrentes
+⚠️ **Calambres frecuentes** (revisar electrolitos)
+
+---
+
+## VENTAJAS COMPETITIVAS DEL PLAN
+
+### **Estratégicas**
+- **Front-loading** elimina estrés nocturno por calorías
+- **Sistema adaptativo** funciona con cualquier volumen de entreno
+- **Protocolo probado** genera confianza mental
+
+### **Fisiológicas**
+- **Glucógeno constantemente alto** para quality workouts
+- **Proteína suficiente** para reparación en peak volumen
+- **Digestión optimizada** para absorción máxima
+
+### **Prácticas**
+- **Ingredientes familiares** - sin sorpresas digestivas
+- **Preparación simple** - menos estrés logístico
+- **Escalabilidad automática** - el sistema se ajusta solo
+
+---
+
+## RECORDATORIOS FINALES
+
+### **Prioridades Absolutas**
+1. **Balance neutro SIEMPRE** - Ni un solo día de déficit
+2. **Post-entreno <30 min** - Ventana anabólica crítica
+3. **Liquid IV diario** - Hidratación y electrolitos
+4. **Suplementos nocturnos** - Recuperación y micronutrientes
+
+### **Mentalidad Correcta**
+- **Cada caloría sirve al rendimiento** del 26 de enero
+- **Digestión > Perfección nutricional** teórica
+- **Consistencia > Optimización** constante
+- **Confianza en el sistema** > Dudas de último momento
+
+**¡Este plan te llevará al start line en condiciones óptimas: glucógeno al máximo, digestión perfecta, confianza total y piernas frescas para correr tu mejor maratón!** 🏃‍♂️💪
